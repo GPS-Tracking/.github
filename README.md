@@ -1,6 +1,6 @@
 <h1 align="center">💻 IOT SYSTEM</h1>
 <p align="center">
-  <img src="https://github.com/ProyekPerangkatLunak/.github/blob/main/profile/Logo%20PT%20Global%20Indo%20Zone.jpg" alt="Logo" width="200" height="162.3">
+  <img src="https://github.com/GPS-Tracking/.github/blob/main/GPS%20Tracking%20-%20Logo.png" alt="Logo" width="200" height="162.3">
 </p>
 <h3 align="center">Project IOT PKKM MBKM KARTANAGARI</h3>
 <h4 align="center">Created by : Team 2</h4>
