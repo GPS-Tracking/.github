@@ -17,7 +17,7 @@ Hello everyone 😊, we are from Team 2. We consist of 4 people and these are ou
 | :-------------------------------: | :-----------: | :---------------------------------------------------------------------: |
 |    Devin Nathanael     |     3IA27     | [**Instagram**](https://www.instagram.com/dev.nthnl/) |
 |    Ghiyats Syahied   |     3IA18     | [**Instagram**](https://www.instagram.com/ghiyats.syhd/) |
-|    Mochammad Wildan Alghifari     |     4IA01     | [**Instagram**](https://www.instagram.com/irawanaufal29/) |
+|    Naufal Maulana Al-Ghifari Irawan     |     4IA01     | [**Instagram**](https://www.instagram.com/irawanaufal29/) |
 |    Steven Jordan      |     3IA27     | [**Instagram**](https://www.instagram.com/steven_jordan20/) |
 
 <br>
